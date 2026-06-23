@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Student Visa Extension | BU International Center</title>
+  <script>
+    try {
+      if (localStorage.getItem("buInternationalSidebarCollapsed") === "true") {
+        document.documentElement.classList.add("sidebar-collapsed");
+      }
+      if (sessionStorage.getItem("buInternationalPageSwipe") === "forward") {
+        document.documentElement.classList.add("page-swipe", "page-swipe-forward");
+        sessionStorage.removeItem("buInternationalPageSwipe");
+      }
+    } catch (error) {}
+  </script>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="gitbook-shell">
+    <aside class="sidebar" aria-label="Documentation navigation">
+      <div class="sidebar-title"><a href="index.html">BU International Center</a><button class="sidebar-hide" type="button" data-sidebar-toggle aria-label="Hide navigation" aria-expanded="true"><span aria-hidden="true">&lt;</span></button></div>
+      <nav>
+        <ol>
+          <li class="nav-level-1"><a href="index.html">International Center</a></li>
+          <li class="nav-level-1 nav-group-item">
+            <details class="nav-dropdown is-active" open>
+              <summary>Student Visa Extension</summary>
+              <ol class="nav-subtopics">
+                <li class="nav-level-2"><a href="student-visa-extension.html" aria-current="page">Overview</a></li>
+                <li class="nav-level-2"><a href="non-ed.html">NON-ED</a></li>
+                <li class="nav-level-2"><a href="non-ed-plus.html">NON-ED PLUS</a></li>
+              </ol>
+            </details>
+          </li>
+          <li class="nav-level-1"><a href="new-student.html">NEW STUDENT</a></li>
+          <li class="nav-level-1"><a href="90-days.html">90 DAYS</a></li>
+          <li class="nav-level-1"><a href="update-renew-passport.html">Update/renew passport</a></li>
+          <li class="nav-level-1"><a href="penalty.html">Penalty</a></li>
+          <li class="nav-level-1"><a href="faq.html">FAQ</a></li>
+          <li class="nav-level-1"><a href="contact.html">Contact</a></li>
+        </ol>
+      </nav>
+    </aside>
+
+    <main class="page">
+      <div class="page-topbar">
+        <button class="main-panel-toggle" type="button" data-sidebar-toggle aria-label="Hide navigation" aria-expanded="true">
+          <span class="visually-hidden">Show or hide navigation</span>
+        </button>
+        <a class="back-button" href="index.html" aria-label="Back to International">
+          <span aria-hidden="true">&lt;</span>
+        </a>
+        <nav class="breadcrumb" aria-label="Breadcrumb">
+          <a href="index.html">International</a>
+          <span class="breadcrumb-separator" aria-hidden="true">&gt;</span>
+          <span aria-current="page">Student Visa</span>
+        </nav>
+      </div>
+      <article class="doc-content">
+        <h1 id="student-visa-extension">Student Visa Extension</h1>
+                <h4 id="contact-us-at-least-1-month-before-your-visa-expires"><a href="contact.html">Contact us</a> <mark>at least</mark> 1 month before your visa expires</h4>
+                <p>Current student</p>
+                <a class="content-ref" href="non-ed.html"><span>NON-ED Visa Extension</span><span aria-hidden="true">&rarr;</span></a>
+                <p>Expected to graduate student (Last semester). Not sure if you are eligible? <a href="https://studentchecklist.bu.ac.th/">click here</a></p>
+                <a class="content-ref" href="non-ed-plus.html"><span>NON-ED Plus after graduation Extension</span><span aria-hidden="true">&rarr;</span></a>
+                <p>Also read <a href="penalty.html#overstay-fine">Penalty</a></p>
+      </article>
+    </main>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>

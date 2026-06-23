@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>BU International Center</title>
+  <script>
+    try {
+      if (localStorage.getItem("buInternationalSidebarCollapsed") === "true") {
+        document.documentElement.classList.add("sidebar-collapsed");
+      }
+      if (sessionStorage.getItem("buInternationalPageSwipe") === "forward") {
+        document.documentElement.classList.add("page-swipe", "page-swipe-forward");
+        sessionStorage.removeItem("buInternationalPageSwipe");
+      }
+    } catch (error) {}
+  </script>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="gitbook-shell">
+    <aside class="sidebar" aria-label="Documentation navigation">
+      <div class="sidebar-title"><a href="index.html">BU International Center</a><button class="sidebar-hide" type="button" data-sidebar-toggle aria-label="Hide navigation" aria-expanded="true"><span aria-hidden="true">&lt;</span></button></div>
+      <nav>
+        <ol>
+          <li class="nav-level-1"><a href="index.html" aria-current="page">International Center</a></li>
+          <li class="nav-level-1 nav-group-item">
+            <details class="nav-dropdown">
+              <summary>Student Visa Extension</summary>
+              <ol class="nav-subtopics">
+                <li class="nav-level-2"><a href="student-visa-extension.html">Overview</a></li>
+                <li class="nav-level-2"><a href="non-ed.html">NON-ED</a></li>
+                <li class="nav-level-2"><a href="non-ed-plus.html">NON-ED PLUS</a></li>
+              </ol>
+            </details>
+          </li>
+          <li class="nav-level-1"><a href="new-student.html">NEW STUDENT</a></li>
+          <li class="nav-level-1"><a href="90-days.html">90 DAYS</a></li>
+          <li class="nav-level-1"><a href="update-renew-passport.html">Update/renew passport</a></li>
+          <li class="nav-level-1"><a href="penalty.html">Penalty</a></li>
+          <li class="nav-level-1"><a href="faq.html">FAQ</a></li>
+          <li class="nav-level-1"><a href="contact.html">Contact</a></li>
+        </ol>
+      </nav>
+    </aside>
+
+    <main class="page">
+      <div class="page-topbar">
+        <button class="main-panel-toggle" type="button" data-sidebar-toggle aria-label="Hide navigation" aria-expanded="true">
+          <span class="visually-hidden">Show or hide navigation</span>
+        </button>
+        <span class="back-button back-button-placeholder" aria-hidden="true"></span>
+        <nav class="breadcrumb" aria-label="Breadcrumb">
+          <span aria-current="page">International</span>
+        </nav>
+      </div>
+      <article class="doc-content">
+        <h1 id="bu-international-center">BU International Center</h1>
+                <p>What would you like to know?</p>
+                <a class="content-ref" href="student-visa-extension.html"><span>Student Visa Extension</span><span aria-hidden="true">&rarr;</span></a>
+                <a class="content-ref" href="new-student.html"><span>New Student Visa</span><span aria-hidden="true">&rarr;</span></a>
+                <a class="content-ref" href="90-days.html"><span>90 Days Report</span><span aria-hidden="true">&rarr;</span></a>
+                <a class="content-ref" href="update-renew-passport.html"><span>Update / Renew Passport</span><span aria-hidden="true">&rarr;</span></a>
+                <a class="content-ref" href="faq.html"><span>FAQ; Documents / Info</span><span aria-hidden="true">&rarr;</span></a>
+                <a class="content-ref" href="penalty.html"><span>Penalty</span><span aria-hidden="true">&rarr;</span></a>
+                <a class="content-ref" href="contact.html"><span>Intercenter Suggestion - Contact</span><span aria-hidden="true">&rarr;</span></a>
+      </article>
+    </main>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>

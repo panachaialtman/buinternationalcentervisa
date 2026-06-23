@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Contact | BU International Center</title>
+  <script>
+    try {
+      if (localStorage.getItem("buInternationalSidebarCollapsed") === "true") {
+        document.documentElement.classList.add("sidebar-collapsed");
+      }
+      if (sessionStorage.getItem("buInternationalPageSwipe") === "forward") {
+        document.documentElement.classList.add("page-swipe", "page-swipe-forward");
+        sessionStorage.removeItem("buInternationalPageSwipe");
+      }
+    } catch (error) {}
+  </script>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="gitbook-shell">
+    <aside class="sidebar" aria-label="Documentation navigation">
+      <div class="sidebar-title"><a href="index.html">BU International Center</a><button class="sidebar-hide" type="button" data-sidebar-toggle aria-label="Hide navigation" aria-expanded="true"><span aria-hidden="true">&lt;</span></button></div>
+      <nav>
+        <ol>
+          <li class="nav-level-1"><a href="index.html">International Center</a></li>
+          <li class="nav-level-1 nav-group-item">
+            <details class="nav-dropdown">
+              <summary>Student Visa Extension</summary>
+              <ol class="nav-subtopics">
+                <li class="nav-level-2"><a href="student-visa-extension.html">Overview</a></li>
+                <li class="nav-level-2"><a href="non-ed.html">NON-ED</a></li>
+                <li class="nav-level-2"><a href="non-ed-plus.html">NON-ED PLUS</a></li>
+              </ol>
+            </details>
+          </li>
+          <li class="nav-level-1"><a href="new-student.html">NEW STUDENT</a></li>
+          <li class="nav-level-1"><a href="90-days.html">90 DAYS</a></li>
+          <li class="nav-level-1"><a href="update-renew-passport.html">Update/renew passport</a></li>
+          <li class="nav-level-1"><a href="penalty.html">Penalty</a></li>
+          <li class="nav-level-1"><a href="faq.html">FAQ</a></li>
+          <li class="nav-level-1"><a href="contact.html" aria-current="page">Contact</a></li>
+        </ol>
+      </nav>
+    </aside>
+
+    <main class="page">
+      <div class="page-topbar">
+        <button class="main-panel-toggle" type="button" data-sidebar-toggle aria-label="Hide navigation" aria-expanded="true">
+          <span class="visually-hidden">Show or hide navigation</span>
+        </button>
+        <a class="back-button" href="index.html" aria-label="Back to International">
+          <span aria-hidden="true">&lt;</span>
+        </a>
+        <nav class="breadcrumb" aria-label="Breadcrumb">
+          <a href="index.html">International</a>
+          <span class="breadcrumb-separator" aria-hidden="true">&gt;</span>
+          <span aria-current="page">Contact</span>
+        </nav>
+      </div>
+      <article class="doc-content">
+        <h1 id="intercenter-suggestion-contact">Intercenter Suggestion - Contact</h1>
+                <p>The International Center is located at Bangkok University, C6 building, 3rd floor. <a href="https://maps.app.goo.gl/BFbVZ7oW8ib4g9gt6">Google map</a></p>
+                <p>Line ID: <a href="https://line.me/R/ti/p/@882hjrcn">@buintercenter</a></p>
+                <p><img class="qr-code" src="lineqrcode.png" alt="Line QR code for BU International Center"></p>
+                <p>Write your suggestion / comment at <a href="https://docs.google.com/forms/d/e/1FAIpQLSdhC7va-3Peqt1iaM4f81TfyyKaK2pbX7Ey6cNYlszgJgwz7w/viewform?usp=publish-editor">Google Forms</a></p>
+      </article>
+    </main>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>

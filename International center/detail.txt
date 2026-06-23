@@ -1,0 +1,1205 @@
+# BU International Center
+
+What would you like to know?
+
+{% content-ref url="/pages/NnetoRVh8QRf4ttEOlTQ" %}
+[Student Visa Extension](/bu-international-center-docs/student-visa-extension.md)
+{% endcontent-ref %}
+
+{% content-ref url="/pages/DrFpxtGA9Omj286QnAKZ" %}
+[New Student Visa](/bu-international-center-docs/new-student-visa.md)
+{% endcontent-ref %}
+
+{% content-ref url="/pages/qlOAFJlx1aVIO7fpVztS" %}
+[90 Days Report](/bu-international-center-docs/90-days-report.md)
+{% endcontent-ref %}
+
+{% content-ref url="/pages/Y67i2qWqLVM78YD0YpkX" %}
+[Update / Renew Passport](/bu-international-center-docs/update-renew-passport.md)
+{% endcontent-ref %}
+
+{% content-ref url="/pages/2KeEeNV0cOrzjNHlph2e" %}
+[FAQ; Documents / Info](/bu-international-center-docs/faq-documents-info.md)
+{% endcontent-ref %}
+
+{% content-ref url="/pages/8b99tqf421o0x37USURk" %}
+[Penalty](/bu-international-center-docs/penalty.md)
+{% endcontent-ref %}
+
+{% content-ref url="/pages/BAxBDGpixookFiDlKQti" %}
+[Intercenter Suggestion - Contact](/bu-international-center-docs/intercenter-suggestion-contact.md)
+{% endcontent-ref %}
+
+# Student Visa Extension
+
+#### [Contact us](/bu-international-center-docs/intercenter-suggestion-contact.md) <mark style="color:$danger;">at least</mark> 1 month before your visa expires
+
+Current student
+
+{% content-ref url="/pages/WiAx2918t50YrKIjz3Gb" %}
+[NON-ED Visa Extension](/bu-international-center-docs/student-visa-extension/non-ed-visa-extension.md)
+{% endcontent-ref %}
+
+Expected to graduate student (Last semester). Not sure if you are eligible? [click here](https://studentchecklist.bu.ac.th/)
+
+{% content-ref url="/pages/KBAaXPbfQmZNuV0Tw5KY" %}
+[NON-ED Plus after graduation Extension](/bu-international-center-docs/student-visa-extension/non-ed-plus-after-graduation-extension.md)
+{% endcontent-ref %}
+
+Also read [Penalty](/bu-international-center-docs/penalty.md#overstay-fine)
+
+# NON-ED Visa Extension
+
+* For current students who are still studying
+* Used for study purposes only <mark style="color:$danger;">\[Illegal to work with this type of visa]</mark>
+* The extension period (6 months / 1 year / other) depends on academic status, payment status, and Immigration approval
+* Students must prepare documents before the visa expiry date
+
+***
+
+### **Required documents:**
+
+1. Passport
+2. Receipt (Latest tuition fee receipt / registration receipt)
+3. Recent photo
+4. Accommodation document
+   1. If you live outside Pathum Thani: TM.30
+   2. If you live inside Pathum Thani: rental contract **and** house owner's ID card copy
+
+<sub>You may bring only your passport first to submit the request and bring the remaining documents on the pickup date</sub>
+
+***
+
+### How to submit request
+
+* Click here to [Non-ED Online submission ](https://internationalcenter.bu.ac.th/Dev/Visa/Visa_Services/login.php)
+* Come to the International Center office
+
+***
+
+### Step-by-Step Process
+
+{% stepper %}
+{% step %}
+
+### Check Your Visa Expiry Date
+
+First, check the **“permitted to stay until”** date on your passport.
+
+This date is very important because it shows the last day you are allowed to stay in Thailand legally. Students should not wait until the last few days before the visa expires.
+{% endstep %}
+
+{% step %}
+
+### Check Your Passport Expiry Date
+
+Before requesting a visa extension, check your passport expiry date.
+
+If your passport will expire soon (in 6 months or 1 year), your visa extension period may be limited by your passport validity.
+
+If your passport is close to expiry, you may be advised to[ renew your passport](/bu-international-center-docs/update-renew-passport.md) first before applying for the visa extension.
+{% endstep %}
+
+{% step %}
+
+### Submit the Visa Extension Request
+
+Students may submit the request through the [online request system](#how-to-submit-request) or visit the International Center in person.
+
+Please prepare your passport and available [required documents.](#required-documents)
+
+{% hint style="info" %}
+If some documents are not ready at the time of request submission, students may bring the remaining documents later on the document pickup date.
+{% endhint %}
+{% endstep %}
+
+{% step %}
+
+### Wait for Email Confirmation
+
+After submitting the request, students should wait for an email from the International Center.
+
+The email will inform students when the documents are ready for pickup. Students should check their email regularly, including the spam or junk folder.
+{% endstep %}
+
+{% step %}
+
+### Pick Up the Documents
+
+Students must come to pick up the prepared visa extension documents at the International Center.
+
+Please bring your passport book when collecting the documents, along with any remaining documents that were not submitted earlier.
+
+> If you cannot come in person, another person may pick up the documents on your behalf. However, that person must bring your passport book with them.
+> {% endstep %}
+
+{% step %}
+
+### Go to Immigration for Visa Extension
+
+After receiving the documents, students must bring them to the Pathum Thani Immigration Office to submit the visa extension application.
+
+{% hint style="info" %}
+Because Bangkok University is located in Pathum Thani.
+{% endhint %}
+{% endstep %}
+
+{% step %}
+
+### Check the New Visa Stamp Carefully
+
+After Immigration completes the visa extension, students must check the new stamp in the passport carefully before leaving Immigration.
+
+Please check:
+
+* Name spelling
+* Passport number
+* Visa type
+* New permission of stay date
+* Immigration officer’s stamp
+* Any additional notes written by Immigration
+
+If there are any mistakes, students should inform the Immigration officer immediately.
+{% endstep %}
+{% endstepper %}
+
+***
+
+### Important Notes
+
+* The university supporting documents do not guarantee visa approval, as final approval depends on Thai Immigration.
+* Students must not overstay. Otherwise, there will be an overstay fee.
+* Students should prepare documents at least 1 month before the visa expires
+* Students should keep copies of all important documents
+* Students should [contact the International Center](/bu-international-center-docs/intercenter-suggestion-contact.md) if they are unsure which documents are required
+
+### **Restriction:**
+
+* Students with no active enrollment may not be eligible
+* Students with academic problems, withdrawal, or (Bachelor) registered less than 9 credits may need additional review
+* If the passport will expire soon, the student should [renew the passport](/bu-international-center-docs/update-renew-passport.md) first before applying, as the extension cannot exceed the passport expiry date
+* Also read [Penalty](/bu-international-center-docs/penalty.md#overstay-fine)
+
+# NON-ED Plus after graduation Extension
+
+For students who have graduated or are about to graduate
+
+Normally allows an additional year stay after graduation
+
+Requires graduation-related documents
+
+***
+
+### **Required documents:**
+
+1. Passport
+2. Recent photo
+3. Official transcript
+4. Graduation Certificate, **or** Pending Approval Certificate, **or** Expected Graduation Certificate
+5. Accommodation document
+   1. If you live outside Pathum Thani: TM.30
+   2. If you live inside Pathum Thani: rental contract **and** house owner's ID card copy
+
+<sub>You may bring only your passport first to submit the request and bring the remaining documents on the pickup date</sub>
+
+***
+
+### How to submit request
+
+* Click here to [Non-ED Plus Online submission ](https://internationalcenter.bu.ac.th/Dev/Visa/Visa_NonED_T/login.php)
+* Visit the International Center office
+
+***
+
+### Step-by-Step Process
+
+{% stepper %}
+{% step %}
+
+### Check Your Visa Expiry Date
+
+First, check the **“permitted to stay until”** date on your passport.
+
+This date is very important because it shows the last day you are allowed to stay in Thailand legally. Students should not wait until the last few days before the visa expires.
+{% endstep %}
+
+{% step %}
+
+### Check Your Passport Expiry Date
+
+Before requesting a visa extension, check your passport expiry date.
+
+If your passport will expire soon (in 1 year), your visa extension period may be limited by your passport validity.
+
+If your passport is close to expiry, you may be advised to[ renew your passport](/bu-international-center-docs/update-renew-passport.md) first before applying for the visa extension.
+{% endstep %}
+
+{% step %}
+
+### Check if you are eligible (Last semester/ Expect to graduate)
+
+<https://bulinks.bu.ac.th/> > Student Records > Graduation: My Graduation Eligibility and Status (For Undergraduate) ([Link](https://studentchecklist.bu.ac.th/))&#x20;
+
+![](/files/CVwP8pu5PfRdfgiEg79m) It should show full credits
+{% endstep %}
+
+{% step %}
+
+### Submit the Visa Extension Request
+
+Students may submit the request through the [online request system](#how-to-submit-request) or visit the International Center in person.
+
+Please prepare your passport and available [required documents.](#required-documents)
+
+{% hint style="info" %}
+If some documents are not ready at the time of request submission, students may bring the remaining documents later on the document pickup date.
+{% endhint %}
+{% endstep %}
+
+{% step %}
+
+### Wait for Email Confirmation
+
+After submitting the request, students will have to wait for an email from the International Center.
+
+The email will inform students **when the documents are ready for pickup**. Students should check their email regularly, including the spam or junk folder.
+{% endstep %}
+
+{% step %}
+
+### Pick Up the Documents
+
+Students must come to pick up the prepared visa extension documents at the International Center.
+
+Please bring your passport book when collecting the documents, along with any remaining documents that were not submitted earlier.
+
+If you cannot come in person, another person may pick up the documents on your behalf. However, that person must bring your passport book with them.
+{% endstep %}
+
+{% step %}
+
+### Go to Immigration for Visa Extension
+
+After receiving the documents, students must bring them to the Pathum Thani Immigration Office to submit the visa extension application.
+
+{% hint style="info" %}
+Because Bangkok University is located in Pathum Thani.
+{% endhint %}
+{% endstep %}
+
+{% step %}
+
+### Check the New Visa Stamp Carefully
+
+After Immigration completes the visa extension, students must check the new stamp in the passport carefully before leaving Immigration.
+
+Please check:
+
+* Name spelling
+* Passport number
+* Visa type
+* New permission of stay date
+* Immigration officer’s stamp
+* Any additional notes written by Immigration
+
+If there are any mistakes, students should inform the Immigration officer immediately.
+{% endstep %}
+{% endstepper %}
+
+### **Restriction:**
+
+* If the passport will expire soon, the student should [renew the passport](/bu-international-center-docs/update-renew-passport.md) first before applying, as the extension cannot exceed the passport expiry date&#x20;
+* If the student graduated a long time ago, they may not be eligible to apply for NON-ED Plus
+* Also read [Penalty](/bu-international-center-docs/penalty.md#overstay-fine)
+
+# New Student Visa
+
+International students who plan to study in Thailand should apply for a **Non-Immigrant Visa Category “ED”**, commonly called a **Student Visa**. This visa is for students who have been accepted to study at an educational institution in Thailand. The Non-Immigrant “ED” Visa is issued to applicants who wish to pursue full-time education in public or private educational institutions in Thailand.&#x20;
+
+Students should apply for the visa **before entering Thailand**, normally through the **Royal Thai Embassy / Consulate-General** in their country of residence or through the official Thai E-Visa system, depending on the country where they apply. The Thai E-Visa website is operated by the Ministry of Foreign Affairs of Thailand.
+
+***
+
+### Who Should Read This Page?
+
+This page is for:
+
+* New international students who have been accepted by the university
+* Students who are currently outside Thailand and need to apply for a new student visa
+* Students who need university documents to support their visa application
+* Students who are not sure what documents they need before contacting the International Center
+
+***
+
+| Item                       | Details                                                                                                 |
+| -------------------------- | ------------------------------------------------------------------------------------------------------- |
+| Visa Type                  | Non-Immigrant Visa                                                                                      |
+| Category                   | ED / Education                                                                                          |
+| Purpose                    | To study in Thailand                                                                                    |
+| Initial Permission of Stay | Usually up to 90 days after entering Thailand, depending on the visa and Immigration officer’s decision |
+
+***
+
+### Important Restriction
+
+The university can issue supporting documents for eligible students, but the university **cannot guarantee visa approval**.
+
+Each Embassy or Consulate may request different supporting documents. Students must check the requirements of the specific Embassy or Consulate where they will apply.
+
+***
+
+### Documents Required to Submit a Request to the International Center
+
+To request university documents for a new student visa, students should prepare the following:
+
+#### 1. Passport Copy
+
+Please provide a clear copy of the passport information page.
+
+The passport should be valid for at least 6 months from the intended travel date. Some Thai Embassy pages list a passport or travel document valid for at least 6 months as a basic requirement for the Non-Immigrant ED Visa.
+
+***
+
+#### 2. Admission Information
+
+Students should provide proof that they have been accepted to study at the university.
+
+This may include:
+
+* BU admission application forms
+* Tuition fee receipt / Registration slip
+
+***
+
+#### 3. Embassy / Consulate Information
+
+Students must inform the International Center where they plan to apply or submit BU visa request forms for the visa. Provide the name of the Embassy / Consulate.
+
+Example:
+
+> Royal Thai Embassy, Beijing, China\
+> Royal Thai Consulate-General, Ho Chi Minh City, Vietnam
+
+This information is important because different Embassies may require different university documents.
+
+***
+
+#### 6. Financial Evidence
+
+Some Embassies may request financial evidence, such as a bank statement or sponsorship letter. For example, some Thai Embassy pages list financial evidence or bank statements as part of the application requirements for education visas.
+
+Students should check the exact financial requirement with the Embassy or Thai E-Visa system before submitting the application.
+
+***
+
+### Documents from University
+
+After checking the student’s eligibility and submitted information, the university will prepare supporting documents to student's email such as:
+
+* Letter addressed to the Royal Thai Embassy / Consulate-General
+* University registration or authorization documents
+* Copy of authorized signer’s document
+
+***
+
+### Common Embassy Requirements
+
+Although requirements may vary, students are commonly asked to prepare:
+
+1. Passport biodata page
+2. Recent photograph
+3. University supporting letter
+4. Proof of current location / Accommodation notification
+5. Financial evidence
+6. Visa application form
+
+Students should always check the official requirements of the Embassy / Consulate before applying.
+
+***
+
+### Application Process
+
+{% stepper %}
+{% step %}
+
+### Check Your Embassy Requirements
+
+Before requesting university documents, students should check the visa requirements from the Royal Thai Embassy, Consulate-General, or Thai E-Visa system where they will apply.
+{% endstep %}
+
+{% step %}
+
+### Submit a Request to the Admission office or your agency or International Center
+
+{% endstep %}
+
+{% step %}
+
+### Wait for Document Review
+
+The International Center will check the submitted information. If documents are incomplete, students may be asked to provide additional information.
+{% endstep %}
+
+{% step %}
+
+### Receive University Supporting Documents
+
+Once the documents are ready, the student will be informed by email or the official communication channel.
+{% endstep %}
+
+{% step %}
+
+### Apply for the Visa
+
+Students must submit the visa application themselves through the Embassy, Consulate-General, or Thai E-Visa system. **The student must stay in that country during the visa application.**
+{% endstep %}
+
+{% step %}
+
+### Enter Thailand with the Correct Visa
+
+After receiving the visa, students should check the visa details carefully before traveling.
+
+Please check:
+
+* Name spelling
+* Passport number
+* Visa type \[NON-ED PLUS]
+* Visa expiry date
+  {% endstep %}
+  {% endstepper %}
+
+***
+
+### After Entering Thailand
+
+After arriving in Thailand, students should check the entry stamp given by the Immigration officer at the airport or border.
+
+Students should check:
+
+* Date of entry
+* Permission of stay until date
+* Visa type \[NON-ED PLUS]
+
+Students must contact the International Center 1 month before the permission of stay expires if they need to extend their student visa in Thailand.
+
+{% content-ref url="/pages/NnetoRVh8QRf4ttEOlTQ" %}
+[Student Visa Extension](/bu-international-center-docs/student-visa-extension.md)
+{% endcontent-ref %}
+
+***
+
+### Important Notes
+
+* Apply for the visa early before traveling to Thailand.
+* Do not enter Thailand with the wrong visa type if your purpose is to study.
+* Do not wait until the last minute to request university documents.
+* Make sure your passport expiration date is valid long enough.
+* Prepare both digital and printed copies of important documents.
+* Embassy requirements may differ by country.
+* Additional documents may be requested without prior notice.
+* Visa approval is subject to the Embassy, Consulate, Thai E-Visa system, and Immigration authority.
+
+***
+
+### Sample Email to Request New Student Visa Documents
+
+**Subject:** New Student Visa Document Request – Full Name – Student ID
+
+Dear International Center,
+
+I would like to request university supporting documents for my new student visa application.
+
+My information is as follows:
+
+* Photo of passport information page
+* BU application forms
+* Embassy / Consulate where I will apply: or BU Visa request forms
+  * If you are currently not in that country, please also inform us when you plan to travel there
+* Intended arrival date in Thailand:
+* Email:
+
+I have attached a copy of my passport and admission document for your consideration.
+
+Kind regards,\
+\[Student Name]
+
+# 90 Days Report
+
+The **90-Day Report** is a required address notification for foreigners who stay in Thailand for more than 90 consecutive days. It is officially called **Notification of Staying in the Kingdom over 90 Days** and is submitted by using **Form TM.47**. This report is **not a visa extension** and does not give students a new visa period. It is only a notification of the student’s current residential address in Thailand.&#x20;
+
+***
+
+### Who Needs to Do the 90-Day Report?
+
+Students need to do a 90-Day Report if they:
+
+* Stay in Thailand continuously for more than 90 days
+* Hold a valid visa or extension of stay
+* Have not left Thailand before the 90-day report due date
+* Are still staying in Thailand under their current permission of stay
+
+The day count starts again when a foreigner leaves and re-enters Thailand.
+
+***
+
+### Type of Document
+
+<table><thead><tr><th width="173">Item</th><th>Details</th></tr></thead><tbody><tr><td>Document Type</td><td>90-Day Report</td></tr><tr><td>Official Form</td><td>TM.47</td></tr><tr><td>Purpose</td><td>To notify Immigration of the student’s current address in Thailand</td></tr><tr><td>Important Note</td><td>This is not a visa extension</td></tr></tbody></table>
+
+***
+
+### Important Restriction
+
+The 90-Day Report is the student’s personal responsibility.
+
+The university may provide guidance and the TM.47 form, but students must make sure that they submit the report on time. Late reporting may result in a 2,000 baht fine (More of penalty click [here](https://bu-international-center.gitbook.io/bu-international-center-docs/pages/8b99tqf421o0x37USURk#id-2.-late-90-day-report))
+
+Students should also understand that:
+
+* The report should be based on the student’s current residential address.
+* Students who changed address should make sure their accommodation information is updated correctly.
+* Immigration may request additional documents depending on the case.
+
+***
+
+### When to Submit the 90-Day Report
+
+Students should check the due date carefully.
+
+The report can usually be submitted:
+
+* **Within 14 days before the due date**, or
+* **Within 7 days after the due date**
+
+***
+
+### Required Documents
+
+Students should prepare the following documents before submitting the 90-Day Report.
+
+#### 1. Passport
+
+#### 2. Previous 90-Day Report Slip
+
+If the student has done a 90-Day Report before, please prepare the latest 90-day report receipt or slip.
+
+This document is important because it shows:
+
+* The previous report date
+* The next report due date
+* Immigration record of the last notification
+
+***
+
+#### 3. TM.47 Form
+
+Students may need to complete **Form TM.47**, which is the form for notification of staying in Thailand longer than 90 days.
+
+You can get the form at the International Center or at the Immigration office.
+
+***
+
+#### 4. Accommodation Information
+
+Students should prepare their current address information clearly.
+
+If requested by Immigration, students may also need:
+
+* TM.30 receipt
+* Rental contract
+* Copy of landlord / owner ID card
+
+***
+
+#### 5. Copy of Passport Pages
+
+Immigration may require copies of passport pages, such as:
+
+* Passport information page
+* Current visa page
+* Latest arrival stamp
+* Latest extension stamp
+* Previous 90-day report slip
+
+Students should prepare both original documents and copies before visiting Immigration.
+
+***
+
+### Submit in Person at Immigration
+
+Students may go to the Immigration Office responsible for their current residential area.
+
+For example:
+
+{% tabs %}
+{% tab title="Students living in Pathum Thani" %}
+Contact Pathum Thani Immigration.
+{% endtab %}
+
+{% tab title="Students living in Bangkok" %}
+Contact the Immigration Office responsible for Bangkok.
+{% endtab %}
+
+{% tab title="Students living in another province" %}
+Contact the Immigration Office in that province.
+{% endtab %}
+{% endtabs %}
+
+***
+
+### Step-by-Step Process
+
+{% stepper %}
+{% step %}
+
+### Check Your Due Date
+
+Look at your previous 90-day report slip or count from your latest entry date into Thailand.
+{% endstep %}
+
+{% step %}
+
+### Prepare Required Documents
+
+Prepare your passport, previous 90-day report slip, TM.47 form, and accommodation information.
+{% endstep %}
+
+{% step %}
+
+### Submit the Report
+
+Submit the report within the allowed period: 14 days before or 7 days after the due date.
+{% endstep %}
+
+{% step %}
+
+### Keep the Receipt
+
+After the report is completed, students must keep the receipt or approved slip safely.
+{% endstep %}
+
+{% step %}
+
+### Check the Next Due Date
+
+The next 90-day report date will normally be shown on the receipt.
+{% endstep %}
+{% endstepper %}
+
+***
+
+### Important Notes for Students
+
+* Do not confuse the 90-Day Report with a visa extension
+* Do not wait until the last day
+* Always keep your 90-day report receipt
+* Report based on your current residential address
+* If you moved to another province, check with the correct Immigration Office
+* If you leave Thailand before the due date, you normally do not need to submit the report for that cycle
+* After re-entering Thailand, the 90-day count normally starts again
+* Late submission may result in a fine. Read [Penalty](/bu-international-center-docs/penalty.md#overstay-fine)
+
+# Update / Renew Passport
+
+Students must make sure that their passport is valid and updated before applying for any visa service in Thailand. If your passport is expired, nearly expired, damaged, lost, full, or recently renewed, you must update your passport information with the university and may need to transfer your Thai visa stamp from the old passport to the new passport.
+
+Foreigners in Thailand who need a new passport should contact their national Embassy in Thailand. After receiving the new passport, the Embassy may provide a letter requesting Thai Immigration to transfer the latest visa stamps into the new passport, free of charge.
+
+***
+
+### Who Should Read This Page?
+
+This page is for students who:
+
+* Have renewed their passport
+* Plan to renew their passport soon
+* Have a passport that will expire soon
+* Have no blank pages left in the passport
+* Lost their passport
+* Have a damaged passport that cannot be read
+* Need to apply for a visa extension after receiving a new passport
+* Need to update passport information with the university
+
+***
+
+### Type of Request
+
+<table><thead><tr><th width="303">Request Type</th><th>Purpose</th></tr></thead><tbody><tr><td>Renew Passport</td><td>Apply for a new passport through your Embassy</td></tr><tr><td>Update Passport Information</td><td>Inform the university that your passport information has changed</td></tr><tr><td>Transfer Visa Stamp</td><td>Transfer Thai Immigration stamps from the old passport to the new passport</td></tr><tr><td><a href="/pages/NnetoRVh8QRf4ttEOlTQ">Visa Extension</a> with New Passport</td><td>Use the new passport for the next visa extension process</td></tr></tbody></table>
+
+***
+
+### Important Restriction
+
+A visa extension in Thailand **cannot normally be granted beyond the passport expiry date**. If your passport will expire soon, your visa extension period may be limited by the passport validity.
+
+Students are strongly advised to check their passport expiry date early. If the passport will expire soon, please renew the passport before applying for a [visa extension](/bu-international-center-docs/student-visa-extension.md).
+
+***
+
+<details>
+
+<summary>Case 1: Passport Will Expire Soon</summary>
+
+Contact your Embassy in Thailand or your home country to ask about passport renewal.
+
+After receiving your new passport, you should:
+
+1. Inform the International Center
+2. Check whether you need to transfer your visa stamp. If so, transfer the visa stamp at Immigration
+3. Use the new passport for your next visa extension request
+
+</details>
+
+<details>
+
+<summary>Case 2: Already Received a New Passport</summary>
+
+Please submit the following documents to the International Center:
+
+1. Old passport information page
+2. New passport information page
+
+</details>
+
+<details>
+
+<summary>Case 3: Lost Passport</summary>
+
+You should take action immediately. Report to the local police station and then contact their national Embassy in Thailand to apply for a new passport.
+
+{% stepper %}
+{% step %}
+**Report the lost passport to the police station**
+
+To request a police report
+{% endstep %}
+
+{% step %}
+**Contact your Embassy to apply for a new passport**
+
+Transfer the visa stamp
+{% endstep %}
+
+{% step %}
+**Inform the International Center**
+{% endstep %}
+{% endstepper %}
+
+</details>
+
+<details>
+
+<summary>Case 4: Damaged Passport</summary>
+
+If your passport is damaged, you should contact your Embassy or International Center to ask whether you need to renew it. A damaged passport may affect your visa extension, travel, or Immigration process.
+
+After receiving a new passport, you may need to transfer your visa stamp from the old passport to the new passport.
+
+</details>
+
+***
+
+## Transfer Visa Stamp to New Passport
+
+### What Is Visa Stamp Transfer?
+
+Visa stamp transfer means Thai Immigration copies or transfers the important visa and entry information from your old passport to your new passport.
+
+This may include:
+
+* Latest entry stamp (date, port arrival)
+* Current visa information
+* Latest extension of stay stamp
+* Permission of stay information
+
+***
+
+### Where Should Students Transfer the Visa Stamp?
+
+Contact the Immigration Office or International Center to get the Transfer Visa Stamp forms, then bring the forms to the **Pathum Thani Immigration Office**.
+
+***
+
+### Documents Required for Visa Stamp Transfer
+
+Students should prepare:
+
+1. Old passport
+2. New passport
+3. Copy of old passport page
+   1. Information page
+   2. Latest arrival stamp
+   3. Current visa stamp
+4. Copy of new passport information page
+5. Transfer stamp form / request form
+6. TM.30 or accommodation document, if requested
+7. 90-day report slip, if any
+8. Student ID, student certificate, or university supporting document, if requested by Immigration
+
+***
+
+### Step-by-Step Process
+
+{% stepper %}
+{% step %}
+
+### Check Passport Expiry Date
+
+Check your passport expiry date before applying for any visa extension.
+
+If your passport will expire soon, renew it first.
+{% endstep %}
+
+{% step %}
+
+### Contact Your Embassy
+
+Contact or visit your national Embassy to renew your passport.
+{% endstep %}
+
+{% step %}
+
+### Prepare Documents and Visit Immigration
+
+Bring your old passport and new passport to transfer the stamp.
+{% endstep %}
+
+{% step %}
+
+### Inform the International Center
+
+Bring your old passport and new passport when visiting the International Center.
+{% endstep %}
+
+{% step %}
+
+### Check the New Passport Stamp
+
+* Full name
+* Passport number
+* Visa type
+* Latest entry date
+* Permission of stay date
+* Extension stamp
+* Immigration officer’s stamp
+  {% endstep %}
+  {% endstepper %}
+
+***
+
+### Important Notes
+
+* Do not throw away your old passport.
+* Keep both old and new passports together until Immigration completes the transfer.
+* Do not travel abroad before checking whether your visa stamp has been transferred.
+* If your visa is still valid in the old passport, carry both passports when needed.
+* If your passport is lost, report to the police immediately.
+* If your passport will expire soon, renew it before requesting a visa extension.
+* The university cannot transfer visa stamps for students. This must be done by Thai Immigration.
+* Immigration may request additional documents depending on the student’s case.
+
+# Penalty
+
+This page explains the common penalties and risks related to:
+
+* [Overstay](#what-is-overstay)
+* [Late 90-Day Report](#id-2.-penalty-for-late-90-day-report)
+* [Missing or incorrect TM.30 / accommodation record](#id-3.-missing-or-incorrect-tm.30-accommodation-record)
+* [Leaving Thailand without re-entry permit requirements](#id-4.-leaving-thailand-without-checking-re-entry-permit)
+
+***
+
+## 1. Overstay
+
+### What is Overstay?
+
+**Overstay** means staying in Thailand after the student’s permitted stay date has already expired.
+
+Students should check the stamp in their passport carefully, especially the date written as:
+
+> **Permitted to stay until**
+
+### Overstay Fine
+
+If a student overstays, the fine is generally:
+
+| Overstay Period                           | Fine                                                                                                          |
+| ----------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
+| 1 day or more                             | 500 Baht per day                                                                                              |
+| Maximum fine (Overstay more than 40 days) | 20,000 Baht (maximum) and <mark style="color:$danger;">must leave Thailand and reapply for a new visa</mark> |
+
+### Entry Ban for Overstay
+
+| Overstay Period   | Possible Entry Ban |
+| ----------------- | ------------------ |
+| More than 90 days | 1 year             |
+| More than 1 year  | 3 years            |
+| More than 3 years | 5 years            |
+| More than 5 years | 10 years           |
+
+#### If the student is arrested for overstay
+
+| Overstay Period  | Possible Entry Ban |
+| ---------------- | ------------------ |
+| Less than 1 year | 5 years            |
+| More than 1 year | 10 years           |
+
+***
+
+### Important Notes for Students
+
+* Do not wait until the visa expiry date to request [visa extension](/bu-international-center-docs/student-visa-extension.md) documents
+* Do not assume the university can solve an overstay case
+* If your visa is about to expire soon, contact the [International Center](/bu-international-center-docs/intercenter-suggestion-contact.md) immediately
+* The university cannot guarantee that Immigration will approve any extension after overstay
+
+***
+
+## 2. Penalty for Late 90-Day Report
+
+If a student does not submit the 90-Day Report on time, the student may receive a fine.
+
+| Case                                    | Possible Fine                                                                                      |
+| --------------------------------------- | -------------------------------------------------------------------------------------------------- |
+| Student reports late by themselves      | Not less than 2,000 Baht                                                                           |
+| Student fails to report and is arrested | At least 4,000 Baht, with possible additional fine not exceeding 200 Baht per day until compliance |
+
+***
+
+### Important Notes for Students
+
+* 90-Day Report does not extend the visa.
+* Students must still apply for a visa extension separately.
+* Students should keep the latest 90-Day Report slip.
+
+***
+
+## 3. Missing or Incorrect TM.30 / Accommodation Record
+
+### What is TM.30?
+
+TM.30 is the accommodation notification for foreigners staying in Thailand. It is usually submitted by the landlord, house owner, dormitory, apartment, or hotel.
+
+House owners, landlords, or hotel managers who host foreign nationals must notify local Immigration within 24 hours of the foreigner’s arrival.
+
+***
+
+### Possible Problem if TM.30 is Missing
+
+If the TM.30 record is missing or incorrect, the student may face problems when requesting Immigration services, such as:
+
+* Visa extension
+* 90-Day Report
+* Address confirmation
+* Immigration document verification
+
+Immigration may strictly request the TM.30 return slip when students go to Immigration for services such as 90-Day Report and visa extension.
+
+***
+
+### Important Notes for Students
+
+* Make sure your landlord, apartment, dormitory, or house owner has completed TM.30.
+* If you move to a new address, check whether a new TM.30 is required.
+* Your address document should match your current residence.
+* If you live outside Pathum Thani, you may need to contact the Immigration Office responsible for your current province.
+
+***
+
+## 4. Leaving Thailand Without Checking Re-entry Permit
+
+### Important Consequence
+
+If a student holds a visa extension in Thailand and wants to travel outside Thailand, the student should check whether a **Re-entry Permit** is required before leaving.
+
+Leaving Thailand without the correct re-entry permission <mark style="color:$danger;">may cause the current permission of stay to become **invalid**</mark>
+
+***
+
+### Students Should Check Before Traveling
+
+Before leaving Thailand, students should check:
+
+* Current visa type
+* Current permission of stay date
+* Whether the visa is single entry or multiple entry
+* Whether a re-entry permit is needed
+
+***
+
+### Important Notes for Students
+
+* Do not leave Thailand without checking your visa status.
+* If your visa extension is still valid but you leave without the required re-entry permit, you may lose the remaining permission of stay.
+* Contact the International Center or Immigration before traveling if you are not sure
+
+***
+
+## What Students Should Do to Avoid Penalties
+
+### Recommended Actions
+
+* Check your visa expiry date regularly
+* Start the [visa extension](/bu-international-center-docs/student-visa-extension.md) process early
+* Do not wait until the last day
+* [Renew your passport](/bu-international-center-docs/update-renew-passport.md) early if it will expire soon
+* Keep your [90-Day](/bu-international-center-docs/90-days-report.md) Report slip
+* Confirm that your TM.30 is completed
+* Check re-entry permit requirements before leaving Thailand
+* Keep copies of all important documents
+* Read emails from the International Center carefully
+* Contact the International Center if you are unsure.
+
+***
+
+## Quick Penalty Summary
+
+| Issue                                 | Possible Penalty / Consequence                       |
+| ------------------------------------- | ---------------------------------------------------- |
+| Overstay                              | 500 Baht per day, maximum 20,000 Baht                |
+| Serious overstay                      | Possible deportation or entry ban                    |
+| Overstay more than 90 days            | Possible 1-year entry ban if reported voluntarily    |
+| Arrested for overstay                 | Possible 5-year or 10-year entry ban                 |
+| Late 90-Day Report                    | Fine from 2,000 Baht                                 |
+| Failure to report 90-Day and arrested | Fine from 4,000 Baht, possible additional daily fine |
+| Missing TM.30                         | May affect visa extension or 90-Day Report process   |
+| Leaving without re-entry permit       | May lose current permission of stay                  |
+| Incorrect or fake documents           | Delay, rejection, or legal consequences              |
+
+***
+
+## Emergency Advice
+
+If your visa has already expired, or you think you may have missed an Immigration deadline:
+
+1. Do not ignore the problem
+2. Check your passport stamp immediately
+3. Contact the [International Center](/bu-international-center-docs/intercenter-suggestion-contact.md) for guidance
+4. Contact the responsible Immigration Office as soon as possible
+5. Prepare your passport and all related documents
+
+[International Center](/bu-international-center-docs/intercenter-suggestion-contact.md) can provide guidance and supporting documents when eligible. However, final decisions, fines, and penalties are under the authority of Thai Immigration.
+
+# FAQ; Documents / Info
+
+{% tabs %}
+{% tab title="Records" %}
+
+### **Records Office, A8, 2nd floor**
+
+Student Certificate
+
+Graduation Certificate
+
+Pending approval certificate
+
+Last Semester Certificate
+
+Dropping a class to go to another country
+
+Taking a semester break from classes
+
+Diploma
+
+{% hint style="info" %}
+<records_office@bu.ac.th>
+{% endhint %}
+{% endtab %}
+
+{% tab title="Admission" %}
+
+### **Admission Office, A8, 2nd floor**
+
+Regarding faculty registration
+
+Passing the entrance exam
+
+How much score did I get
+
+Can I use this score to apply AAA major?
+
+I've already paid, but it doesn't show as paid (e.g., "No record of tuition fee payment found")
+
+Scholarship-related matters
+
+New or lost student ID
+
+{% hint style="info" %}
+
+### &#x20;tel 02 407 3888 ext 2426
+
+{% endhint %}
+{% endtab %}
+
+{% tab title="Finance" %}
+
+### **Finance Office, A8, 2nd floor**
+
+Receipt can't be downloaded
+
+Lost receipt
+{% endtab %}
+
+{% tab title="BUI office" %}
+
+### **BU International Office, C6, 5th floor**
+
+Activities
+
+Internship&#x20;
+
+Club
+
+Transferring Faculties
+
+Authorization Letter
+{% endtab %}
+
+{% tab title="More" %}
+BUI Affairs
+
+Recommendation Letter
+
+{% hint style="info" %}
+<buiao@bu.ac.th>
+{% endhint %}
+
+***
+
+Inquire about exchange programs
+
+Studying abroad
+
+{% hint style="info" %}
+<studyabroad@bu.ac.th>
+{% endhint %}
+{% endtab %}
+{% endtabs %}
+
+BU one stop Line [@bu1stop](https://line.me/R/ti/p/@lxy8803u)
+
+## FAQ
+
+| What                         | Answer                                                                                                        |
+| ---------------------------- | ------------------------------------------------------------------------------------------------------------- |
+| Open a bank account            | [Student Certificate ](#records)                                                                              |
+| Driver's License               | [Student Certificate ](#records)                                                                              |
+| Got the wrong stamp/visa         | Go to Immigration or the arrival port                                                                                |
+| Insurance                    | <p>BU only provides accident insurance                                                                      |
+| <br>no health insurance</p>  |                                                                                                               |
+| I lost the document          | Report the loss at the police station. Say that you lost the visa letter for extension 1007, then bring the police report back to request a new one |
+| Passport damaged/lost        | [Contact us](/bu-international-center-docs/intercenter-suggestion-contact.md)                                 |
+| Can I pick up the document later | Yes, you can pick up any day (after the date we emailed you)                                                  |
+
+Didn't find your problem? [Contact us](/bu-international-center-docs/intercenter-suggestion-contact.md)
+
+# Intercenter Suggestion - Contact
+
+The International Center is located at Bangkok University, C6 building, 3rd floor \[[Google map](https://maps.app.goo.gl/BFbVZ7oW8ib4g9gt6)]
+
+Line ID: [@buintercenter](https://line.me/R/ti/p/@882hjrcn)
+
+![](/files/mRy0j2COrvZuOCVjU5H4)
+
+Write your suggestion / comment at [Google Forms](https://docs.google.com/forms/d/e/1FAIpQLSdhC7va-3Peqt1iaM4f81TfyyKaK2pbX7Ey6cNYlszgJgwz7w/viewform?usp=publish-editor)
