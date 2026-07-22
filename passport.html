@@ -1,0 +1,247 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Passport Update or Renewal | BU International Center</title>
+  <meta name="description" content="Passport renewal, replacement, BU record update, and Thai Immigration stamp-transfer guidance.">
+  <meta name="theme-color" content="#0b1f3f">
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body data-page="passport">
+
+<section class="page-header">
+  <div class="page-header__topline">
+    <div>
+      <span class="eyebrow">Immigration reporting</span>
+      <h1>Passport Update or Renewal</h1>
+    </div>
+    <div class="page-header__actions">
+      <button class="button button--small button--ghost" type="button" data-print-page>
+        <svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M6 9V3h12v6"/><path d="M6 18H4a2 2 0 0 1-2-2v-5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2h-2"/><path d="M6 14h12v7H6z"/></svg><span>Print page</span>
+      </button>
+    </div>
+  </div>
+  <p class="page-header__description">Update Bangkok University records and transfer relevant Thai Immigration stamps after receiving a new, replacement, or emergency passport.</p>
+  <div class="page-meta-row">
+    <span><svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/></svg> Last reviewed: <strong data-last-reviewed></strong></span>
+    <span><svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3 5 6v5c0 4.4 2.6 8.1 7 10 4.4-1.9 7-5.6 7-10V6z"/><path d="m9 12 2 2 4-4"/></svg> Embassy, BU, and Thai Immigration procedures</span>
+  </div>
+</section>
+
+<section class="summary-panel" aria-labelledby="passport-summary">
+  <div class="summary-panel__head">
+    <svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><rect x="5" y="3" width="14" height="18" rx="2"/><circle cx="12" cy="11" r="3.4"/><path d="M8.8 11h6.4M12 7.6c1 1 1.5 2.1 1.5 3.4S13 13.4 12 14.4c-1-1-1.5-2.1-1.5-3.4S11 8.6 12 7.6ZM9 17h6"/></svg><h2 id="passport-summary">Process summary</h2>
+  </div>
+  <dl class="summary-grid">
+    <div class="summary-item"><dt>Passport issuer</dt><dd>Your embassy or national authority</dd></div>
+    <div class="summary-item"><dt>BU action</dt><dd>Update the student passport record</dd></div>
+    <div class="summary-item"><dt>Immigration action</dt><dd>Transfer relevant stamps to the new passport</dd></div>
+    <div class="summary-item"><dt>Normal renewal</dt><dd>Keep both old and new passports</dd></div>
+    <div class="summary-item"><dt>Lost or stolen passport</dt><dd>Obtain a police report and contact your embassy</dd></div>
+    <div class="summary-item"><dt>Before travel</dt><dd>Confirm all stamps and permission dates</dd></div>
+  </dl>
+</section>
+
+<div class="alert alert--deadline">
+  <span class="alert__icon"><svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/></svg></span>
+  <div class="alert__body">
+    <span class="alert__title">Renew before requesting a long extension</span>
+    <p>An extension cannot normally be granted beyond the passport expiry date. Renewing first may prevent your student extension or ED Plus period from being shortened.</p>
+  </div>
+</div>
+
+<div class="page-layout">
+  <article class="page-article">
+    <h2>Who does what?</h2>
+    <div class="table-wrap">
+      <table>
+        <thead>
+          <tr>
+            <th>Responsible organization</th>
+            <th>Main responsibility</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td><strong>Your embassy or passport authority</strong></td>
+            <td>Issues, renews, replaces, or certifies the passport.</td>
+          </tr>
+          <tr>
+            <td><strong>Police</strong></td>
+            <td>Issues a report when a passport is lost or stolen.</td>
+          </tr>
+          <tr>
+            <td><strong>Bangkok University</strong></td>
+            <td>Updates the student record and prepares eligible supporting documents when needed.</td>
+          </tr>
+          <tr>
+            <td><strong>Thai Immigration</strong></td>
+            <td>Transfers relevant entry, extension, and re-entry information to the new passport and updates the immigration record.</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+    <h2>Choose your situation</h2>
+    <div class="tabs" data-tabs>
+      <div class="tab-list" role="tablist" aria-label="Passport situation">
+        <button id="renewal-tab" type="button" role="tab" aria-controls="renewal-panel" aria-selected="true">Normal renewal</button>
+        <button id="lost-tab" type="button" role="tab" aria-controls="lost-panel" aria-selected="false">Lost or stolen</button>
+        <button id="damaged-tab" type="button" role="tab" aria-controls="damaged-panel" aria-selected="false">Damaged or changed details</button>
+      </div>
+
+      <section class="tab-panel" id="renewal-panel" role="tabpanel" aria-labelledby="renewal-tab">
+        <h3>You still possess the old passport</h3>
+        <p>Keep the old passport after receiving the new one. Contact the International Center to update your student record, then follow Immigration instructions for transferring the relevant stamps.</p>
+      </section>
+
+      <section class="tab-panel" id="lost-panel" role="tabpanel" aria-labelledby="lost-tab" hidden>
+        <h3>The passport is missing</h3>
+        <ol>
+          <li>Report the loss or theft to the police.</li>
+          <li>Contact your embassy for a replacement or emergency passport.</li>
+          <li>Notify the International Center.</li>
+          <li>Contact Immigration to reconstruct or transfer the immigration record.</li>
+        </ol>
+        <p>Do not travel internationally until the replacement passport and Thai immigration status have been checked.</p>
+      </section>
+
+      <section class="tab-panel" id="damaged-panel" role="tabpanel" aria-labelledby="damaged-tab" hidden>
+        <h3>The document is unusable or personal details changed</h3>
+        <p>Contact your embassy first. When a name, nationality, passport number, or other core detail changes, additional civil documents or certified evidence may be required by BU and Immigration.</p>
+      </section>
+    </div>
+
+    <h2>Normal renewal process</h2>
+    <ol class="process-list">
+      <li class="process-step">
+        <span class="process-step__number" aria-hidden="true"></span>
+        <div class="process-step__content">
+          <h3>Renew through your embassy or passport authority</h3>
+          <p>Follow your country’s requirements and retain the old passport unless the issuing authority keeps it.</p>
+        </div>
+      </li>
+      <li class="process-step">
+        <span class="process-step__number" aria-hidden="true"></span>
+        <div class="process-step__content">
+          <h3>Check the new passport carefully</h3>
+          <p>Verify the English name, date of birth, nationality, passport number, issue date, and expiry date.</p>
+        </div>
+      </li>
+      <li class="process-step">
+        <span class="process-step__number" aria-hidden="true"></span>
+        <div class="process-step__content">
+          <h3>Update the BU student record</h3>
+          <p>Provide a clear copy of the new biodata page and any supporting evidence requested by the International Center or Registrar.</p>
+        </div>
+      </li>
+      <li class="process-step">
+        <span class="process-step__number" aria-hidden="true"></span>
+        <div class="process-step__content">
+          <h3>Prepare the Immigration stamp-transfer package</h3>
+          <p>Collect both passports, embassy certification where issued, copies of relevant pages, and the Immigration transfer request.</p>
+        </div>
+      </li>
+      <li class="process-step">
+        <span class="process-step__number" aria-hidden="true"></span>
+        <div class="process-step__content">
+          <h3>Visit the responsible Immigration office</h3>
+          <p>Use the office instructed for your immigration record. BU may provide additional supporting documents for student-status cases.</p>
+        </div>
+      </li>
+      <li class="process-step">
+        <span class="process-step__number" aria-hidden="true"></span>
+        <div class="process-step__content">
+          <h3>Review every transferred stamp</h3>
+          <p>Check the latest entry, extension, re-entry permit or ED Plus exemption, and permission-to-stay date before leaving.</p>
+        </div>
+      </li>
+    </ol>
+
+    <h2>Documents commonly requested for stamp transfer</h2>
+    <ul class="document-list">
+      <li>
+        <strong>New passport and former passport</strong>
+        <small>Bring originals and copies of the biodata pages and all relevant Thai stamps.</small>
+      </li>
+      <li>
+        <strong>Request to transfer stamps to the new passport</strong>
+        <small>Use the form or request format required by the Immigration office.</small>
+      </li>
+      <li>
+        <strong>Embassy certificate or passport-renewal evidence</strong>
+        <small>Some offices request a letter confirming that the new passport replaces the former passport.</small>
+      </li>
+      <li>
+        <strong>Latest entry and extension evidence</strong>
+        <small>Include copies of the latest arrival, permission-to-stay, extension, and re-entry information.</small>
+      </li>
+      <li>
+        <strong>Police report</strong>
+        <small>Required when the former passport was lost or stolen.</small>
+      </li>
+      <li>
+        <strong>BU supporting documents</strong>
+        <small>Student-status confirmation may be requested depending on the case and office.</small>
+      </li>
+    </ul>
+
+    <div class="alert alert--policy">
+      <span class="alert__icon"><svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M12 11v6M12 7h.01"/></svg></span>
+      <div class="alert__body">
+        <span class="alert__title">The exact document set can differ</span>
+        <p>Passport-issuing practices vary by nationality, and Immigration offices may request additional evidence. Confirm the current list before visiting.</p>
+      </div>
+    </div>
+
+    <h2>After the transfer</h2>
+    <ul class="checklist">
+      <li>The old and new passport numbers are linked correctly.</li>
+      <li>The latest entry information is recorded.</li>
+      <li>The current permission-to-stay date is correct.</li>
+      <li>Any re-entry permit or ED Plus exemption is reflected correctly.</li>
+      <li>The university record shows the new passport number and expiry date.</li>
+      <li>Your next 90-day report uses the new passport details.</li>
+    </ul>
+
+    <div class="alert alert--deadline">
+      <span class="alert__icon"><svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="5" width="18" height="16" rx="2"/><path d="M8 3v4M16 3v4M3 10h18"/><path d="M8 14h.01M12 14h.01M16 14h.01M8 18h.01M12 18h.01"/></svg></span>
+      <div class="alert__body">
+        <span class="alert__title">A new passport may require an in-person 90-day report</span>
+        <p>The Immigration Bureau’s general 90-day guidance states that a foreign national with a changed passport should report in person or authorize another person. Do not assume the online system will immediately recognize the new document.</p>
+      </div>
+    </div>
+
+    <h2>Travel warning</h2>
+    <div class="alert alert--danger">
+      <span class="alert__icon"><svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><path d="m3 11 18-7-7 18-3-8z"/><path d="m11 14 4-4"/></svg></span>
+      <div class="alert__body">
+        <span class="alert__title">Do not travel with an unresolved immigration record</span>
+        <p>Before departure, confirm which passport must be carried and whether the current stay and re-entry information are valid. Carry both passports when Immigration or your embassy instructs you to do so.</p>
+      </div>
+    </div>
+
+    <h2>Official resources</h2>
+    <div class="reference-list">
+      <a class="reference-link" href="https://www.immigration.go.th/">
+        <svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3 5 6v5c0 4.4 2.6 8.1 7 10 4.4-1.9 7-5.6 7-10V6z"/><path d="m9 12 2 2 4-4"/></svg><span>Thai Immigration Bureau</span><svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M14 4h6v6M20 4l-9 9"/><path d="M18 13v6a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h6"/></svg>
+      </a>
+      <a class="reference-link" href="https://kamphaengphet.immigration.go.th/wp-content/uploads/2025/04/22.Transfer-Stamp-to-New-Passport-Form.pdf">
+        <svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M6 3h8l4 4v14H6z"/><path d="M14 3v5h5M9 13h6M9 17h6"/></svg><span>Official transfer-stamp request and document guide</span><svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M14 4h6v6M20 4l-9 9"/><path d="M18 13v6a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h6"/></svg>
+      </a>
+      <a class="reference-link" href="contact.html">
+        <svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M21 14a4 4 0 0 1-4 4H9l-5 3v-7a4 4 0 0 1-1-2.6V7a4 4 0 0 1 4-4h10a4 4 0 0 1 4 4z"/><path d="M8 9h8M8 13h5"/></svg><span>Contact the International Center</span><svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M5 12h14M14 7l5 5-5 5"/></svg>
+      </a>
+    </div>
+  </article>
+  <aside class="page-aside">
+    <nav class="page-toc" data-auto-toc=".page-article" aria-label="On this page"></nav>
+  </aside>
+</div>
+
+  <script src="site-data.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
